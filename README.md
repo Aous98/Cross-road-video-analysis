@@ -42,6 +42,4 @@ https://github.com/user-attachments/assets/6c9ed899-8e78-4627-8415-fca48e8d8b9a
 - cvzone
 - NumPy
 
-Install dependencies:
-```bash
-pip install -r requirements.txt
+
