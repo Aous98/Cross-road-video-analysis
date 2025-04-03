@@ -18,6 +18,12 @@ https://github.com/user-attachments/assets/6c9ed899-8e78-4627-8415-fca48e8d8b9a
 
 ![saved_frame_3](https://github.com/user-attachments/assets/508c0017-b39c-47fc-b306-09c1ed0d08e1)
 
+## Mask
+for only detecting in the white area
+
+
+![mask](https://github.com/user-attachments/assets/e1b6361a-487e-4c7f-8696-8044e151e467)
+
 ## How It Works
 
 1. **Vehicle Detection**: Uses YOLOv8 to detect cars and trucks
